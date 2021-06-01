@@ -1,0 +1,1 @@
+vpc_id = "vpc-dd0247a7"
